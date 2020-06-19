@@ -3,11 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://macycle.github.io/categories/</loc>
+    <loc>http://macycle.github.io/</loc>
+    <lastmod>2020-06-19T09:56:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://macycle.github.io/</loc>
+    <loc>http://macycle.github.io/posts/</loc>
+    <lastmod>2020-06-19T09:56:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macycle.github.io/posts/test/</loc>
+    <lastmod>2020-06-19T09:56:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macycle.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2020-06-16T21:14:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macycle.github.io/posts/hello/</loc>
+    <lastmod>2020-06-16T20:49:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://macycle.github.io/categories/</loc>
   </url>
   
   <url>
